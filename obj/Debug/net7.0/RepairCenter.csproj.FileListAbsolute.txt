@@ -1,0 +1,15 @@
+C:\Users\ASUS\source\repos\RepairCenter\RepairCenter\obj\Debug\net7.0\RepairCenter.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\RepairCenter\RepairCenter\obj\Debug\net7.0\RepairCenter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\RepairCenter\RepairCenter\obj\Debug\net7.0\RepairCenter.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\RepairCenter\RepairCenter\obj\Debug\net7.0\RepairCenter.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\RepairCenter\RepairCenter\obj\Debug\net7.0\RepairCenter.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\RepairCenter\RepairCenter\bin\Debug\net7.0\RepairCenter.exe
+C:\Users\ASUS\source\repos\RepairCenter\RepairCenter\bin\Debug\net7.0\RepairCenter.deps.json
+C:\Users\ASUS\source\repos\RepairCenter\RepairCenter\bin\Debug\net7.0\RepairCenter.runtimeconfig.json
+C:\Users\ASUS\source\repos\RepairCenter\RepairCenter\bin\Debug\net7.0\RepairCenter.dll
+C:\Users\ASUS\source\repos\RepairCenter\RepairCenter\bin\Debug\net7.0\RepairCenter.pdb
+C:\Users\ASUS\source\repos\RepairCenter\RepairCenter\obj\Debug\net7.0\RepairCenter.dll
+C:\Users\ASUS\source\repos\RepairCenter\RepairCenter\obj\Debug\net7.0\refint\RepairCenter.dll
+C:\Users\ASUS\source\repos\RepairCenter\RepairCenter\obj\Debug\net7.0\RepairCenter.pdb
+C:\Users\ASUS\source\repos\RepairCenter\RepairCenter\obj\Debug\net7.0\RepairCenter.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\RepairCenter\RepairCenter\obj\Debug\net7.0\ref\RepairCenter.dll
